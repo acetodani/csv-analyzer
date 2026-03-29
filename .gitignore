@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Parcel build output
+dist/
+.parcel-cache/
+
+# Java artifacts
+lib/
+*.class
+*.jar
+
+# OS
+.DS_Store
+
+# VS Code
+.vscode/
