@@ -76,8 +76,6 @@ csv-analyzer/
 
 ## 🖼 Preview
 
-Screenshots:
-
 ![Landing Screen](src/assets/images/landing-screen.png)
 
 ![Dashboard Screen](src/assets/images/dashboard-screen.png)
