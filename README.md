@@ -6,7 +6,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 - **Drag & drop upload** — drop a CSV or browse for a file
 - **Auto column detection** — numeric, categorical, and date columns are detected automatically
@@ -21,7 +21,7 @@
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 git clone https://github.com/acetodani/csv-analyzer.git
@@ -42,7 +42,7 @@ Output goes to `src/dist/`.
 
 ---
 
-## 🗂 Project Structure
+## Project Structure
 
 ```
 csv-analyzer/
@@ -56,7 +56,7 @@ csv-analyzer/
 
 ---
 
-## 🛠 Built With
+## Built With
 
 - [Chart.js](https://www.chartjs.org/) — interactive chart rendering
 - [Papa Parse](https://www.papaparse.com/) — fast, robust CSV parsing
@@ -64,7 +64,7 @@ csv-analyzer/
 
 ---
 
-## 📸 How It Works
+## How It Works
 
 1. **Upload** a CSV file via drag & drop or the file browser
 2. Columns are **auto-analyzed** — numeric columns get histograms with stats, categorical columns get bar charts, date columns get line charts over time
@@ -74,14 +74,9 @@ csv-analyzer/
 
 ---
 
-## 🖼 Preview
+## Preview
 
 ![Landing Screen](src/assets/images/landing-screen.png)
 
 ![Dashboard Screen](src/assets/images/dashboard-screen.png)
 
-Place your provided image files in:
-
-```text
-src/assets/images/
-```
