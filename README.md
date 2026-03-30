@@ -74,6 +74,16 @@ csv-analyzer/
 
 ---
 
-## License
+## 🖼 Preview
 
-MIT
+Screenshots:
+
+![Landing Screen](src/assets/images/landing-screen.png)
+
+![Dashboard Screen](src/assets/images/dashboard-screen.png)
+
+Place your provided image files in:
+
+```text
+src/assets/images/
+```
